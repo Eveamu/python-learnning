@@ -1,5 +1,5 @@
 import xml.etree.ElementTree as ET
-
+"""测试xml.etree.ElementTree"""
 tree = ET.parse('country_data.xml')
 # root = tree.getroot()
 
